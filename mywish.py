@@ -1,1 +1,1 @@
-Whats up ?
+print("Whats up ?")
